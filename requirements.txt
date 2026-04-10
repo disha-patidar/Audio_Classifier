@@ -1,2 +1,7 @@
 streamlit
+numpy
+pandas
 scikit-learn
+tensorflow
+xgboost
+librosa
